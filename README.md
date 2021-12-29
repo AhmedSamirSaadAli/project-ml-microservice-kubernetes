@@ -48,3 +48,9 @@ source .devops/bin/activate
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+
+### CircleCI Integration
+
+[![<ORG_NAME>](https://circleci.com/github/AhmedSamirSaadAli/project-ml-microservice-kubernetes.svg?style=svg)]
+(https://app.circleci.com/pipelines/github/AhmedSamirSaadAli/project-ml-microservice-kubernetes)
+ 
