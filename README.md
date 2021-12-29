@@ -51,5 +51,5 @@ source .devops/bin/activate
 
 ### CircleCI Integration
 
-[![CircleCI](https://circleci.com/circleci-docs/AhmedSamirSaadAli/project-ml-microservice-kubernetes.svg?style=svg)]
+[![CircleCI](https://circleci.com/gh/AhmedSamirSaadAli/project-ml-microservice-kubernetes.svg?style=svg)]
 (https://app.circleci.com/pipelines/github/AhmedSamirSaadAli/project-ml-microservice-kubernetes)
