@@ -51,5 +51,5 @@ source .devops/bin/activate
 
 ### CircleCI Integration
 
-[![CircleCI](https://circleci.com/gh/karimg75/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)]
-(https://circleci.com/gh/karimg75/Operationalize-a-Machine-Learning-Microservice-API)
+[![CircleCI](https://circleci.com/github/AhmedSamirSaadAli/project-ml-microservice-kubernetes.svg?style=svg)]
+(https://app.circleci.com/pipelines/github/AhmedSamirSaadAli/project-ml-microservice-kubernetes)
