@@ -53,5 +53,4 @@ source .devops/bin/activate
 
 This repository has been verified with CircleCI
 
-[![CircleCI](https://circleci.com/gh/AhmedSamirSaadAli/project-ml-microservice-kubernetes.svg?style=svg)]
-(https://app.circleci.com/pipelines/github/AhmedSamirSaadAli/project-ml-microservice-kubernetes)
+[![CircleCI](https://circleci.com/gh/AhmedSamirSaadAli/project-ml-microservice-kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/AhmedSamirSaadAli/project-ml-microservice-kubernetes)
